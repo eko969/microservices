@@ -1,2 +1,1 @@
-# microservices
-Demo Fully Isolated System Architecture
+# Fully Isolated System Architecture (Microservices)
